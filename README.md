@@ -20,6 +20,9 @@ npm install
 # Starts the first exercise
 npm run exercise 01
 
+# Runs linting and tests my solution
+npm run solution 01ms
+
 # Runs linting and tests on the solution
 npm run solution 01
 ```
@@ -58,6 +61,12 @@ Say thanks to Matt on [Twitter](https://twitter.com/mattpocockuk) or by joining 
 Alias: `npm run e 01`
 
 Run the corresponding `*.problem.ts` file.
+
+### `npm run solution 01ms`
+
+Alias: `npm run s 01ms`
+
+Run the corresponding `*.solution.ts` file. If there are multiple, it runs only the first one.
 
 ### `npm run solution 01`
 
