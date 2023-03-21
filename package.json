@@ -51,6 +51,7 @@
     "s-09ms03": "npm run solution -- 09ms03",
     "s-09": "npm run solution -- 09",
     "e-10": "npm run exercise -- 10",
+    "s-10ms": "npm run solution -- 10ms",
     "s-10": "npm run solution -- 10",
     "e-11": "npm run exercise -- 11",
     "s-11": "npm run solution -- 11",
