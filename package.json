@@ -43,6 +43,7 @@
     "s-07ms01": "npm run solution -- 07ms01",
     "s-07ms02": "npm run solution -- 07ms02",
     "e-08": "npm run exercise -- 08",
+    "s-08ms": "npm run solution -- 08ms",
     "s-08": "npm run solution -- 08",
     "e-09": "npm run exercise -- 09",
     "s-09": "npm run solution -- 09",
