@@ -69,6 +69,7 @@
     "s-14ms": "npm run solution -- 14ms",
     "s-14": "npm run solution -- 14",
     "e-15": "npm run exercise -- 15",
+    "s-15ms": "npm run solution -- 15ms",
     "s-15": "npm run solution -- 15",
     "e-16": "npm run exercise -- 16",
     "s-16": "npm run solution -- 16",
