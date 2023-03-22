@@ -80,6 +80,7 @@
     "s-17ms02": "npm run solution -- 17ms02",
     "s-17": "npm run solution -- 17",
     "e-18": "npm run exercise -- 18",
+    "s-18ms": "npm run solution -- 18ms",
     "s-18": "npm run solution -- 18"
   },
   "dependencies": {
