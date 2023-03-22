@@ -72,6 +72,8 @@
     "s-15ms": "npm run solution -- 15ms",
     "s-15": "npm run solution -- 15",
     "e-16": "npm run exercise -- 16",
+    "s-16ms01": "npm run solution -- 16ms01",
+    "s-16ms02": "npm run solution -- 16ms02",
     "s-16": "npm run solution -- 16",
     "e-17": "npm run exercise -- 17",
     "s-17": "npm run solution -- 17",
